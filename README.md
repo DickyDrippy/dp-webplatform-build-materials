@@ -1,1 +1,1 @@
-# dp-webplatform-build-materials
+Diploma repository for a web platform that supports online sales of building materials. Planned functionality includes product catalog, search and filters, cart, user profile, order processing, and an admin panel for managing products and stock.
